@@ -1,4 +1,4 @@
-# React Dogs Social Media
+# React Dogs Rede Social
  
 Stacks: React
 
